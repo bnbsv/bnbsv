@@ -6,7 +6,7 @@
 💬 Want help with Design? I can help you!
 
 
-<div align="inline-block">
+<div align="inline">
   <a href="https://github.com/bnbsv">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bnbsv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnbsv&layout=compact&langs_count=7&theme=tokyonight"/>
