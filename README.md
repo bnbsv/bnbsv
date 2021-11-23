@@ -2,7 +2,7 @@
 
 😄 My pronouns are she/her <br>
 💎 I’m currently working with UX/UI Design at @CITi-UFPE <br>
-🌱 I’m currently learning HTML/CSS and trying to understand javascript <br>
+🌱 Learning HTML/CSS and trying to understand javascript <br>
 💬 Want help with Design? I can help you!
 
 
