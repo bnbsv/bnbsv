@@ -1,9 +1,9 @@
-### Hi, i'm Brenda!
+### Hi, i'm Brenda! ✌
 
-😄 My pronouns are she/her <br>
-💎 I’m currently working as CTO @CITi-UFPE <br>
-🌱 Learning HTML/CSS. I love UI Design so frontend here i go..<br>
-💬 Want help with Design? I can help you!
+My pronouns are she/her <br>
+I’m currently working as at CTO @CITi-UFPE and as Product Designer at @Locus ✨<br>
+I love UI Design so frontend here i go..<br>
+Want help with Design? I can help you!
 
 
 <div align="inline">
