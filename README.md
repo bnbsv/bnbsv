@@ -1,5 +1,5 @@
 ## Hi, i'm Brenda! ✌
-###(You can call me dex)
+### You can call me dex
 [she/her]<br>
 
 I’m currently working as at CTO @CITi-UFPE and as Product Designer at @Locus ✨<br>
