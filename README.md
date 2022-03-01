@@ -1,8 +1,8 @@
 ### Hi, i'm Brenda!
 
 😄 My pronouns are she/her <br>
-💎 I’m currently working with UX/UI Design at @CITi-UFPE <br>
-🌱 Learning HTML/CSS and trying to understand javascript <br>
+💎 I’m currently working as CTO @CITi-UFPE <br>
+🌱 Learning HTML/CSS. I love UI Design so frontend here i go..<br>
 💬 Want help with Design? I can help you!
 
 
